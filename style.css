@@ -22,7 +22,7 @@ hr{
 }
 
 .center{
-    max-width: 500px;
+    max-width: 700px;
     margin: auto;
 
 }
@@ -97,6 +97,7 @@ hr{
 /* sections */
 .section{
     padding:1rem;
+    margin-bottom: 1rem;
 }
 .section h2,h3{
     text-align: center;
@@ -115,6 +116,11 @@ hr{
     text-align: center;
     color: black;
     border-top-right-radius: 1rem;
+    margin-top: 3rem;
+}
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
 }
 .footer .link{
     color: black;
@@ -122,4 +128,14 @@ hr{
 
 .footer ul{
     padding-inline-start: 0px;
+}
+
+/* space */
+.space{
+    padding-bottom: 1rem;
+}
+
+/* curve */
+.curve{
+    border-radius: 1rem;
 }
