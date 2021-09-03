@@ -7,6 +7,9 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+hr{
+    margin: 2rem 0rem;
+}
 
 .container{
     padding-left: 1rem;
@@ -30,7 +33,16 @@ body{
     
 }
 .secondarylink{
-    color: var(--primary-color);
+    color: black;
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+}
+
+/* list */
+.non-bullet{
+    list-style: none;
+}
+.list-inline{
+    display: inline;
+    padding:0rem 0.5rem;
 }
