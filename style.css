@@ -118,7 +118,7 @@ hr{
 /* footer */
 .footer{
     margin-top: auto;
-    width: 100%;
+    width: auto;
     background-color: var(--primary-color);
     padding: 2rem;
     text-align: center;
@@ -150,4 +150,10 @@ hr{
 /* font size */
 .font-size{
     font-size: 1.3rem;
+}
+/* section head */
+.section-head{
+    font-size: 1.3rem;
+    
+
 }
