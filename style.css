@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root{
-    --primary-color: #845EC2;
+    --primary-color: #3A6EE5;
     --grey: 
-    #4B4453;
+    #338E8B;
     --ow : 
-    #C4FCEF;
+    #DBF2F1;
 }
 
 body{
@@ -124,6 +124,7 @@ hr{
     text-align: center;
     color: black;
     border-top-right-radius: 1rem;
+    padding-top: 5rem;
    
 }
 .footer .footer-header{
