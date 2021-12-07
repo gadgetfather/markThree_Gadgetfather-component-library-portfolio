@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root{
-    --primary-color: #3A6EE5;
+    --primary-color: #3FEB7D;
     --grey: 
     #338E8B;
     --ow : 
@@ -167,4 +167,7 @@ hr{
     font-size: 1.3rem;
     
 
+}
+.distance{
+    margin-bottom: 4rem;
 }
